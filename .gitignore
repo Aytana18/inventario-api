@@ -1,0 +1,22 @@
+# Compilados
+target/
+build/
+out/
+*.class
+*.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Variables de entorno (nunca subir claves)
+.env
+
+# Otros
+*.log
+.DS_Store
+HELP.md
